@@ -1,0 +1,7 @@
+{
+    "schemaType": "LAUNCHER",
+    "id": "kikes-nerdlet-launcher",
+    "displayName": "KikesNerdletLauncher",
+    "description": "Describe me",
+    "rootNerdletId": "kikes-nerdlet-nerdlet"
+}
