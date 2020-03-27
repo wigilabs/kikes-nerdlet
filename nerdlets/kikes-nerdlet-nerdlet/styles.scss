@@ -15,6 +15,10 @@ body, h1, p {
   font-family: 'Roboto', sans-serif;
 }
 
+.App {
+  transform: scale(.8) translate(0, -12%);
+}
+
 /* header */
 .header {
   background: linear-gradient(180.36deg, #30DA7B 30.8%, #00A549 93.23%);

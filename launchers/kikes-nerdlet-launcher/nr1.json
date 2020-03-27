@@ -1,7 +1,7 @@
 {
     "schemaType": "LAUNCHER",
     "id": "kikes-nerdlet-launcher",
-    "displayName": "KikesNerdletLauncher",
+    "displayName": "K1. Gallina a Camión",
     "description": "Describe me",
     "rootNerdletId": "kikes-nerdlet-nerdlet"
 }
